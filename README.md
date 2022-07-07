@@ -13,8 +13,8 @@
     <h3>Exercicios da Disciplinas Ialg<h3>
 </div>
     <ul>
-        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO1">REO1</a></li>
-        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO2">REO2</a></li>
+        <li><h4>Estrutura Condicionais</h4><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO1">REO1</a></li>
+        <li><h4>Estrutura de Repeticão</h4><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO2">REO2</a></li>
         <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO3">REO3</a></li>
         <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO4">REO4</a></li>
         <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO5">REO5</a></li>
