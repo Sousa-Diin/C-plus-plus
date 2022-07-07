@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+a{
+    background-color: #d2d2d2;
+    border-radius: 14px;
+    text-decoration: none;
+    list-style:none;
+}
+a:hover {
+    background-color:#008B8B;
+    color:#112b41;
+}
