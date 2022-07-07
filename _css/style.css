@@ -2,11 +2,14 @@
 #submenu{
     border-right: #008B8B;
 }
+#link{
+    list-style: none;
+}
 ul li a{
     background-color: #d2d2d2;
     border-radius: 14px;
     text-decoration: none;
-    list-style: symbols();
+    
 }
 ul li a:hover {
     background-color:#008B8B;
