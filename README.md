@@ -13,13 +13,13 @@
     <h3>Exercicios da Disciplinas Ialg<h3>
 </div>
     <ul>
-        <li>REO1</li>
-        <li>REO2</li>
-        <li>REO3</li>
-        <li>REO4</li>
-        <li>REO5</li>
-        <li>REO6</li>
-        <li>REO7</li>
+        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO1">REO1</a></li>
+        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO2">REO2</a></li>
+        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO3">REO3</a></li>
+        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO4">REO4</a></li>
+        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO5">REO5</a></li>
+        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO6">REO6</a></li>
+        <li><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO7">REO7</a></li>
     </ul>
 </body>
  </html>
