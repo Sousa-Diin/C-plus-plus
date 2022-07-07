@@ -4,7 +4,19 @@
  <html>
  <head> 
     <meta charset="utf-8">
-    
+    <style>
+        a{
+            background-color: #d2d2d2;
+            border-radius: 14px;
+            text-decorate: none;
+            list-style:none;
+        }
+        a:hover {
+            background-color:#008B8B;
+            color:#112b41;
+        }
+    </style>
+
 </head>
 <body>
 <div id="img-topo">
