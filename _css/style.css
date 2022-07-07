@@ -1,5 +1,7 @@
 @charset "UTF-8";
-
+#submenu{
+    border-right: #008B8B;
+}
 ul li a{
     background-color: #d2d2d2;
     border-radius: 14px;

@@ -13,6 +13,7 @@
     <h1>codigos em C++ </h1>
     <h3>Exercicios da Disciplinas Ialg<h3>
 </div>
+<div id ="submenu">
     <ul>
         <li><h4>Estrutura Condicionais</h4><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO1">REO1</a></li>
         <li><h4>Estrutura de Repeticão</h4><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO2">REO2</a></li>
@@ -22,5 +23,6 @@
         <li><h4>Arquivos</h4><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO6">REO6</a></li>
         <li><h4>Busca Binaria</h4><a href="https://github.com/Sousa-Diin/C-plus-plus/tree/main/IALG_2/REO7">REO7</a></li>
     </ul>
+</div>
 </body>
  </html>
