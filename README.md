@@ -10,8 +10,8 @@
 <body>
 <div id="img-topo">
 <figure><img src="https://cdn.icon-icons.com/icons2/2415/PNG/128/cplusplus_original_logo_icon_146581.png"/></figure>
-    <h1>codigos em C++ </h1>
-    <h3>Exercicios da Disciplinas Ialg<h3>
+    <h5>exercícios resolvidos em C++ </h5>
+    <h1>Exercicios da Disciplinas Ialg<h1>
 </div>
 <div id ="submenu">
     <ul>
